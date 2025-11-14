@@ -1,0 +1,2 @@
+Vowels-> 18
+Consonants-> 34
